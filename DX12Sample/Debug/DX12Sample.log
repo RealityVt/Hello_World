@@ -1,0 +1,13 @@
+﻿  MathHelper.cpp
+  GeometryGenerator.cpp
+  GameTimer.cpp
+  DDSTextureLoader.cpp
+  d3dUtil.cpp
+d:\documents\github\hello_world\dx12sample\common\d3dutil.cpp(29): warning C4244: 'argument': conversion from 'std::streamoff' to 'SIZE_T', possible loss of data
+d:\documents\github\hello_world\dx12sample\common\d3dutil.cpp(69): warning C4244: '=': conversion from 'UINT64' to 'LONG_PTR', possible loss of data
+  d3dApp.cpp
+  Camera.cpp
+  BoxApp.cpp
+  Generating Code...
+  DX12Sample.vcxproj -> D:\Documents\GitHub\Hello_World\DX12Sample\Debug\DX12Sample.exe
+  DX12Sample.vcxproj -> D:\Documents\GitHub\Hello_World\DX12Sample\Debug\DX12Sample.pdb (Full PDB)
